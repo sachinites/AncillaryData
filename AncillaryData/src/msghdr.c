@@ -1,3 +1,4 @@
+/* Author : Abhishek Sagar*/
 
 #include <stdlib.h>
 #include <stdio.h>
